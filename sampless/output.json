@@ -1,0 +1,17 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.7600000000000002,
+    "text": " Learning the concept of inline and block elements in HTML is very important."
+  },
+  {
+    "start": 3.7600000000000002,
+    "end": 6.5600000000000005,
+    "text": " Inline elements are those which take only this much width as required."
+  },
+  {
+    "start": 6.5600000000000005,
+    "end": 10.0,
+    "text": " And block elements are those which take the full width of the screen."
+  }
+]

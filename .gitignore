@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated embeddings
+*.joblib
+*.pkl
+
+# Large media files
+audios/
+videos/
+
+# Generated output
+prompt.txt
+response.txt
+
+# Environment files
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
